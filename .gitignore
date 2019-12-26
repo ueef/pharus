@@ -1,0 +1,5 @@
+*.log
+/.idea
+/tmp
+/var/vendor
+/composer.lock
